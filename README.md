@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 <img src='./2025-11-05 15-18-31.mkv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with OBS Studio
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
